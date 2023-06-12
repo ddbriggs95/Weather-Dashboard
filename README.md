@@ -18,6 +18,7 @@ GIVEN a weather dashboard with form inputs
 
 ## Deployment
 
-Deployed app link:
+Deployed app link: https://ddbriggs95.github.io/Weather-Dashboard/
+
 
 Github Repository: https://github.com/ddbriggs95/Weather-Dashboard
